@@ -1,0 +1,59 @@
+@media only screen and (max-width:599px){
+    .Quote{
+        width:80%;
+    }
+    
+    .Quote__text {
+        font-size:26px;
+    }
+
+    .Quote__author {
+        font-size:15px; 
+    }
+    
+}
+  
+ @media only screen and (min-width:600px){
+    .Quote{
+        width:85%;
+    }
+    
+    .Quote__text{
+        font-size:25px;
+    }
+
+    .Quote__author {
+        font-size:17px; 
+    }
+  }
+  
+  @media only screen and (min-width:900px){
+    .Quote{
+        width:50%;
+    }
+    
+    div.Quote__text{
+        font-size:29px;
+    }
+
+    .Quote__author{
+        font-size:15px; 
+    }
+    
+  }
+  
+  @media only screen and (min-width:1200px){
+    .Quote{
+        width:50%;
+    }
+    
+    .Quote__text{
+        font-size:30px;
+    }
+
+    .Quote__author{
+        font-size:18px; 
+    }
+    
+  }
+  
